@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986690512349",
+    "project_id": "soocily-affd3",
+    "storage_bucket": "soocily-affd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986690512349:android:bc7eb6b1ceb23d059f4234",
+        "android_client_info": {
+          "package_name": "com.example.soocily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxhVly_ZrpCMrmZRfglqfW0b1VUvIFfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
